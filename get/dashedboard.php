@@ -12,10 +12,10 @@ if($_SERVER['REQUEST_METHOD']=="POST"){
 
         echo $username ." : ".$pwd;
     }else{
-        echo "veuillez cpompleter tout les champs";
+        echo "veuillez completer tout les champs";
     }
  }else{
-    echo "les variables n'existent pas";
+   
  }
 
 
