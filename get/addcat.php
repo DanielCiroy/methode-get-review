@@ -74,3 +74,4 @@ if(isset($_POST['description'])){
 </body>
 </html>
 
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque iusto, animi voluptas laboriosam aut, deserunt facere earum assumenda praesentium officiis sequi necessitatibus similique nihil voluptate. Recusandae earum itaque eius ex!
